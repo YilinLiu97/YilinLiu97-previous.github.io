@@ -10,3 +10,9 @@
 
 Fg.1 The network consists of 10 successive convolutional layers with kernel size 3x3x3 and a fully convolutional layer replaced by a large set of 1x1x1 convolutions. The number of neurons on the classification layer could be either 3 or 11 (denotes the number of classes, including the background), depending on the task.
 
+![Fig2](https://preview.ibb.co/gPvqnb/Our_Net_Result_Amyg.png)
+
+Fg.2 Representative segmentation results for the two whole amygdalae and their subfields.
+
+![Fig3](https://gifyu.com/images/Fg.5.gif)
+
