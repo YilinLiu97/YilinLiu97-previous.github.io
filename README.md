@@ -1,9 +1,9 @@
 
-## Cascaded 3D FCN for Segmenting Amygdala and its Subnuclei 
+## Cascaded 3D FCN for Segmenting Amygdala and its Subnuclei
 
 #### Yilin Liu, Brendon Nacewicz, Gregory Kirk, Andrew Alexander, and Nagesh Adluru
 
-### [Results Section]
+### [Results Section for the Abstract]
 
 ![Fig1](https://preview.ibb.co/h9BzDG/FCN.png)
 
